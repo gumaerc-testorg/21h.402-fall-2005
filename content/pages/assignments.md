@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides instructions and potential topics for the course
+  writing assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e75802bb-20c5-c857-fb2c-747100d96ba2
 ---
